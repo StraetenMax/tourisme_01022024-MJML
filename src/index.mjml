@@ -1,5 +1,6 @@
 <mjml>
     <mj-head>
+        <mj-title>JPO 01022024 TOURISME</mj-title>
         <mj-attributes>
             <mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap"/>
             <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700;900&display=swap"/>
@@ -83,7 +84,7 @@
                 <mj-text mj-class="d-text" css-class="m-padding">
                 Alors <b>{{contact.PRENOM}}</b> à bientôt : on vous attend chez-nous...
                 </mj-text>
-                    <mj-divider padding="30px 0px 20px 0px" width="50%" align="center" border-width="1px" border-style="solid" border-color="#20274F" />
+                    <mj-divider padding="30px 0px 20px 0px" width="50%" border-width="1px" border-style="solid" border-color="#20274F" />
                 </mj-column>
                 </mj-section>
                 <!--Comment s'y rendre-->
