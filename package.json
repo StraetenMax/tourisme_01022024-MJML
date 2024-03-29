@@ -1,0 +1,16 @@
+{
+  "name": "tourisme_01022024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "mjml -w index.mjml -o index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.15.3"
+  }
+}
